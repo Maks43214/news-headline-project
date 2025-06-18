@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+/data/raw/
+/data/processed/
+*.zip
+*.tar.gz
+*.tar
+/models/
+/logs/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
